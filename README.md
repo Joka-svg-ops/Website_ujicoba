@@ -1,1 +1,43 @@
-# Website_ujicoba
+<html>
+<head>
+  <title>web gabut</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="utama">
+  <!–– NAVBAR ––>
+    <div class="NAVBAR1">
+      <ul class="ulnavbar2">
+        
+   <li class="linasbar">
+     <a href="#"   class="190">GAMBAR 1</a>
+   </li>
+   <li class="linasbar">
+  <a href="GAMBAR 2.html"    class="190">GAMBAR 2</a>
+   </li>
+   <li class="linasbar">
+  <a href="GAMBAR 3.html" class="190">GAMBAR 3</a>
+     </li>
+        
+      </ul>
+    </div>
+  <!–– NAVBAR END ––>
+    
+  <!–– CONTENT ––>
+    <div class="img1">
+      <a href="https://youtu.be/dQw4w9WgXcQ?si=ebBrr6qLy-dhFruq">
+              <img  src="
+225a6b7ab62ec50217fc0b85ed91d72f (1).png " width="500" height="600"/>
+      </a>
+
+    </div>
+  <!–– CONTENT END ––>
+    
+  <!–– FOOTER ––>
+    <h1 class="h1">AKHIRNYA BISA</h1>
+    <h2 class="h2">Tanpa AI ya</h2>
+       <h3 class="h2">BTW FOTO NYA BISA DI PENCET</h3>
+  <!–– FOOTER END ––>
+    </div>
+</body>
+</html>
